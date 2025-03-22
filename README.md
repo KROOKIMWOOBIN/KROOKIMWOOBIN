@@ -1,11 +1,3 @@
-<h1 align="center">Hi there! 👋 Welcome to my GitHub</h1>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=50&fontAlignY=40&fontColor=ffffff" />
-</p>
-
----
-
 ### 🛠️ Tech Stack  
 
 #### 🚀 Backend  
@@ -46,7 +38,3 @@
 - 🚀 Passionate about building scalable and efficient applications  
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
-</p>
