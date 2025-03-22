@@ -34,7 +34,7 @@
 
 ### 🌱 About Me  
 - 💼 Full Stack Developer  
-- 📚 Always learning and improving  
-- 🚀 Passionate about building scalable and efficient applications  
+- 📚 Passionate about developing new services  
+- 🚀 I love writing code that minimizes resource usage
 
 ---
