@@ -41,7 +41,7 @@
 ---
 
 ### 🌱 About Me  
-- 💼 Backend & Frontend Developer  
+- 💼 Full Stack Developer  
 - 📚 Always learning and improving  
 - 🚀 Passionate about building scalable and efficient applications  
 
