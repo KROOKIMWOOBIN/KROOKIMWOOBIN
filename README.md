@@ -38,3 +38,8 @@
 - 🚀 I love writing code that minimizes resource usage
 
 ---
+
+### 💻 Career
+- 🏢 Full Stack Web Developer at SureM Co., Ltd. (Since Aug 12, 2024)
+
+---
