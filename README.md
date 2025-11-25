@@ -2,14 +2,13 @@
 
 #### 🚀 Backend  
 <p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Asp.NET-5C2D91?style=flat&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 </p>
 
 #### 🎨 Frontend  
@@ -32,13 +31,13 @@
 ---
 
 ### 🌱 About Me  
-- 💼 Full Stack Developer  
+- 💼 BackEnd Developer  
 - 📚 Passionate about developing new services  
 - 🚀 I love writing code that minimizes resource usage
 
 ---
 
 ### 💻 Career
-- 🏢 Full Stack Web Developer at SureM Co., Ltd. (Since Aug 12, 2024)
+- 🏢 Full Stack Web Developer at SureM Co., Ltd. (2024.08.12 ~ )
 
 ---
