@@ -2,8 +2,6 @@
 
 ### 🌱 About Me  
 - 💼 BackEnd Developer  
-- 📚 Passionate about developing new services  
-- 🚀 I love writing code that minimizes resource usage
 
 ---
 
